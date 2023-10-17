@@ -6,7 +6,7 @@ Elyse Barker
 
 ##GitHub Pages:
 
-https://github.com/jsmarier-courses/project-1-lyeevb
+https://jsmarier-courses.github.io/project-1-lyeevb/ 
 
 https://jsmarier.github.io/Template-for-the-Website-Project/
 
